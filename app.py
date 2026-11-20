@@ -1,7 +1,7 @@
 import streamlit as st
 from diagno_core import Diagno
 
-st.set_page_config(page_title="دياجنو – المساعد الطبي الذكي", page_icon="🩺", layout="centered")
+st.set_page_config(page_title="SmartDoc – المساعد الطبي الذكي", page_icon="🩺", layout="centered")
 
 st.markdown("""
 <style>
@@ -69,7 +69,7 @@ def card_html(rank, name, p):
             f'<div class="tips-title">🛡️ نصائح وقائية أولية</div><ul class="tips">{tips}</ul></div>')
 
 
-st.markdown('<div class="hero"><h1>🩺 دياجنو</h1>'
+st.markdown('<div class="hero"><h1>🩺 SmartDoc</h1>'
             '<p>المساعد الطبي الذكي للتقييم الأولي</p></div>', unsafe_allow_html=True)
 st.markdown('<div class="notice">⚠️ هذا التطبيق للتوعية فقط وليس تشخيصاً طبياً ولا يغني عن مراجعة الطبيب. '
             'في الحالات الطارئة اتصل بالإسعاف أو توجه لأقرب طوارئ.</div>', unsafe_allow_html=True)
