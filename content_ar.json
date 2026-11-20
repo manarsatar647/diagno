@@ -1,0 +1,1378 @@
+{
+ "symptoms": [
+  {
+   "index": 0,
+   "symptom": "itching",
+   "label_en": "Itching",
+   "label_ar": "حكة"
+  },
+  {
+   "index": 1,
+   "symptom": "skin_rash",
+   "label_en": "Skin rash",
+   "label_ar": "طفح جلدي"
+  },
+  {
+   "index": 2,
+   "symptom": "nodal_skin_eruptions",
+   "label_en": "Nodal skin eruptions",
+   "label_ar": "عُقَيدات/بثور جلدية"
+  },
+  {
+   "index": 3,
+   "symptom": "continuous_sneezing",
+   "label_en": "Continuous sneezing",
+   "label_ar": "عطاس مستمر"
+  },
+  {
+   "index": 4,
+   "symptom": "shivering",
+   "label_en": "Shivering",
+   "label_ar": "ارتجاف"
+  },
+  {
+   "index": 5,
+   "symptom": "chills",
+   "label_en": "Chills",
+   "label_ar": "قشعريرة"
+  },
+  {
+   "index": 6,
+   "symptom": "joint_pain",
+   "label_en": "Joint pain",
+   "label_ar": "ألم في المفاصل"
+  },
+  {
+   "index": 7,
+   "symptom": "stomach_pain",
+   "label_en": "Stomach pain",
+   "label_ar": "ألم في المعدة"
+  },
+  {
+   "index": 8,
+   "symptom": "acidity",
+   "label_en": "Acidity",
+   "label_ar": "حموضة"
+  },
+  {
+   "index": 9,
+   "symptom": "ulcers_on_tongue",
+   "label_en": "Ulcers on tongue",
+   "label_ar": "قرح في اللسان"
+  },
+  {
+   "index": 10,
+   "symptom": "muscle_wasting",
+   "label_en": "Muscle wasting",
+   "label_ar": "ضمور العضلات"
+  },
+  {
+   "index": 11,
+   "symptom": "vomiting",
+   "label_en": "Vomiting",
+   "label_ar": "تقيؤ"
+  },
+  {
+   "index": 12,
+   "symptom": "burning_micturition",
+   "label_en": "Burning micturition",
+   "label_ar": "حرقة أثناء التبول"
+  },
+  {
+   "index": 13,
+   "symptom": "spotting_urination",
+   "label_en": "Spotting urination",
+   "label_ar": "نقط دم مع البول"
+  },
+  {
+   "index": 14,
+   "symptom": "fatigue",
+   "label_en": "Fatigue",
+   "label_ar": "تعب وإرهاق"
+  },
+  {
+   "index": 15,
+   "symptom": "weight_gain",
+   "label_en": "Weight gain",
+   "label_ar": "زيادة الوزن"
+  },
+  {
+   "index": 16,
+   "symptom": "anxiety",
+   "label_en": "Anxiety",
+   "label_ar": "قلق"
+  },
+  {
+   "index": 17,
+   "symptom": "cold_hands_and_feet",
+   "label_en": "Cold hands and feet",
+   "label_ar": "برودة اليدين والقدمين"
+  },
+  {
+   "index": 18,
+   "symptom": "mood_swings",
+   "label_en": "Mood swings",
+   "label_ar": "تقلب المزاج"
+  },
+  {
+   "index": 19,
+   "symptom": "weight_loss",
+   "label_en": "Weight loss",
+   "label_ar": "فقدان الوزن"
+  },
+  {
+   "index": 20,
+   "symptom": "restlessness",
+   "label_en": "Restlessness",
+   "label_ar": "تَوَتّر وعدم استقرار"
+  },
+  {
+   "index": 21,
+   "symptom": "lethargy",
+   "label_en": "Lethargy",
+   "label_ar": "خمول"
+  },
+  {
+   "index": 22,
+   "symptom": "patches_in_throat",
+   "label_en": "Patches in throat",
+   "label_ar": "بقع في الحلق"
+  },
+  {
+   "index": 23,
+   "symptom": "irregular_sugar_level",
+   "label_en": "Irregular sugar level",
+   "label_ar": "اضطراب مستوى السكر"
+  },
+  {
+   "index": 24,
+   "symptom": "cough",
+   "label_en": "Cough",
+   "label_ar": "سعال"
+  },
+  {
+   "index": 25,
+   "symptom": "high_fever",
+   "label_en": "High fever",
+   "label_ar": "حمى شديدة"
+  },
+  {
+   "index": 26,
+   "symptom": "sunken_eyes",
+   "label_en": "Sunken eyes",
+   "label_ar": "غَوَران العينين"
+  },
+  {
+   "index": 27,
+   "symptom": "breathlessness",
+   "label_en": "Breathlessness",
+   "label_ar": "ضيق في التنفس"
+  },
+  {
+   "index": 28,
+   "symptom": "sweating",
+   "label_en": "Sweating",
+   "label_ar": "تعرق"
+  },
+  {
+   "index": 29,
+   "symptom": "dehydration",
+   "label_en": "Dehydration",
+   "label_ar": "جفاف"
+  },
+  {
+   "index": 30,
+   "symptom": "indigestion",
+   "label_en": "Indigestion",
+   "label_ar": "عسر هضم"
+  },
+  {
+   "index": 31,
+   "symptom": "headache",
+   "label_en": "Headache",
+   "label_ar": "صداع"
+  },
+  {
+   "index": 32,
+   "symptom": "yellowish_skin",
+   "label_en": "Yellowish skin",
+   "label_ar": "اصفرار الجلد"
+  },
+  {
+   "index": 33,
+   "symptom": "dark_urine",
+   "label_en": "Dark urine",
+   "label_ar": "بول داكن"
+  },
+  {
+   "index": 34,
+   "symptom": "nausea",
+   "label_en": "Nausea",
+   "label_ar": "غثيان"
+  },
+  {
+   "index": 35,
+   "symptom": "loss_of_appetite",
+   "label_en": "Loss of appetite",
+   "label_ar": "فقدان الشهية"
+  },
+  {
+   "index": 36,
+   "symptom": "pain_behind_the_eyes",
+   "label_en": "Pain behind the eyes",
+   "label_ar": "ألم خلف العينين"
+  },
+  {
+   "index": 37,
+   "symptom": "back_pain",
+   "label_en": "Back pain",
+   "label_ar": "ألم في الظهر"
+  },
+  {
+   "index": 38,
+   "symptom": "constipation",
+   "label_en": "Constipation",
+   "label_ar": "إمساك"
+  },
+  {
+   "index": 39,
+   "symptom": "abdominal_pain",
+   "label_en": "Abdominal pain",
+   "label_ar": "ألم في البطن"
+  },
+  {
+   "index": 40,
+   "symptom": "diarrhoea",
+   "label_en": "Diarrhoea",
+   "label_ar": "إسهال"
+  },
+  {
+   "index": 41,
+   "symptom": "mild_fever",
+   "label_en": "Mild fever",
+   "label_ar": "حمى خفيفة"
+  },
+  {
+   "index": 42,
+   "symptom": "yellow_urine",
+   "label_en": "Yellow urine",
+   "label_ar": "بول أصفر"
+  },
+  {
+   "index": 43,
+   "symptom": "yellowing_of_eyes",
+   "label_en": "Yellowing of eyes",
+   "label_ar": "اصفرار العينين"
+  },
+  {
+   "index": 44,
+   "symptom": "acute_liver_failure",
+   "label_en": "Acute liver failure",
+   "label_ar": "فشل كبدي حاد"
+  },
+  {
+   "index": 45,
+   "symptom": "swelling_of_stomach",
+   "label_en": "Swelling of stomach",
+   "label_ar": "انتفاخ/تورم المعدة"
+  },
+  {
+   "index": 46,
+   "symptom": "swelled_lymph_nodes",
+   "label_en": "Swelled lymph nodes",
+   "label_ar": "تضخم العقد اللمفاوية"
+  },
+  {
+   "index": 47,
+   "symptom": "malaise",
+   "label_en": "Malaise",
+   "label_ar": "وعكة وشعور عام بالمرض"
+  },
+  {
+   "index": 48,
+   "symptom": "blurred_and_distorted_vision",
+   "label_en": "Blurred and distorted vision",
+   "label_ar": "زغللة وتشوش الرؤية"
+  },
+  {
+   "index": 49,
+   "symptom": "phlegm",
+   "label_en": "Phlegm",
+   "label_ar": "بلغم"
+  },
+  {
+   "index": 50,
+   "symptom": "throat_irritation",
+   "label_en": "Throat irritation",
+   "label_ar": "تهيج الحلق"
+  },
+  {
+   "index": 51,
+   "symptom": "redness_of_eyes",
+   "label_en": "Redness of eyes",
+   "label_ar": "احمرار العينين"
+  },
+  {
+   "index": 52,
+   "symptom": "sinus_pressure",
+   "label_en": "Sinus pressure",
+   "label_ar": "ضغط في الجيوب الأنفية"
+  },
+  {
+   "index": 53,
+   "symptom": "runny_nose",
+   "label_en": "Runny nose",
+   "label_ar": "سيلان الأنف"
+  },
+  {
+   "index": 54,
+   "symptom": "congestion",
+   "label_en": "Congestion",
+   "label_ar": "احتقان"
+  },
+  {
+   "index": 55,
+   "symptom": "chest_pain",
+   "label_en": "Chest pain",
+   "label_ar": "ألم في الصدر"
+  },
+  {
+   "index": 56,
+   "symptom": "weakness_in_limbs",
+   "label_en": "Weakness in limbs",
+   "label_ar": "ضعف في الأطراف"
+  },
+  {
+   "index": 57,
+   "symptom": "fast_heart_rate",
+   "label_en": "Fast heart rate",
+   "label_ar": "تسارع ضربات القلب"
+  },
+  {
+   "index": 58,
+   "symptom": "pain_during_bowel_movements",
+   "label_en": "Pain during bowel movements",
+   "label_ar": "ألم أثناء التبرز"
+  },
+  {
+   "index": 59,
+   "symptom": "pain_in_anal_region",
+   "label_en": "Pain in anal region",
+   "label_ar": "ألم في منطقة الشرج"
+  },
+  {
+   "index": 60,
+   "symptom": "bloody_stool",
+   "label_en": "Bloody stool",
+   "label_ar": "دم في البراز"
+  },
+  {
+   "index": 61,
+   "symptom": "irritation_in_anus",
+   "label_en": "Irritation in anus",
+   "label_ar": "تهيج في الشرج"
+  },
+  {
+   "index": 62,
+   "symptom": "neck_pain",
+   "label_en": "Neck pain",
+   "label_ar": "ألم في الرقبة"
+  },
+  {
+   "index": 63,
+   "symptom": "dizziness",
+   "label_en": "Dizziness",
+   "label_ar": "دوخة"
+  },
+  {
+   "index": 64,
+   "symptom": "cramps",
+   "label_en": "Cramps",
+   "label_ar": "تقلصات"
+  },
+  {
+   "index": 65,
+   "symptom": "bruising",
+   "label_en": "Bruising",
+   "label_ar": "كدمات"
+  },
+  {
+   "index": 66,
+   "symptom": "obesity",
+   "label_en": "Obesity",
+   "label_ar": "سمنة"
+  },
+  {
+   "index": 67,
+   "symptom": "swollen_legs",
+   "label_en": "Swollen legs",
+   "label_ar": "تورم الساقين"
+  },
+  {
+   "index": 68,
+   "symptom": "swollen_blood_vessels",
+   "label_en": "Swollen blood vessels",
+   "label_ar": "تورم الأوعية الدموية"
+  },
+  {
+   "index": 69,
+   "symptom": "puffy_face_and_eyes",
+   "label_en": "Puffy face and eyes",
+   "label_ar": "انتفاخ الوجه والعينين"
+  },
+  {
+   "index": 70,
+   "symptom": "enlarged_thyroid",
+   "label_en": "Enlarged thyroid",
+   "label_ar": "تضخم الغدة الدرقية"
+  },
+  {
+   "index": 71,
+   "symptom": "brittle_nails",
+   "label_en": "Brittle nails",
+   "label_ar": "أظافر هشة"
+  },
+  {
+   "index": 72,
+   "symptom": "swollen_extremities",
+   "label_en": "Swollen extremities",
+   "label_ar": "تورم الأطراف"
+  },
+  {
+   "index": 73,
+   "symptom": "excessive_hunger",
+   "label_en": "Excessive hunger",
+   "label_ar": "جوع مفرط"
+  },
+  {
+   "index": 74,
+   "symptom": "extra_marital_contacts",
+   "label_en": "Extra marital contacts",
+   "label_ar": "علاقات جنسية غير آمنة/خارج الزواج"
+  },
+  {
+   "index": 75,
+   "symptom": "drying_and_tingling_lips",
+   "label_en": "Drying and tingling lips",
+   "label_ar": "جفاف الشفاه ووخز فيها"
+  },
+  {
+   "index": 76,
+   "symptom": "slurred_speech",
+   "label_en": "Slurred speech",
+   "label_ar": "تداخل/ثقل في الكلام"
+  },
+  {
+   "index": 77,
+   "symptom": "knee_pain",
+   "label_en": "Knee pain",
+   "label_ar": "ألم في الركبة"
+  },
+  {
+   "index": 78,
+   "symptom": "hip_joint_pain",
+   "label_en": "Hip joint pain",
+   "label_ar": "ألم في مفصل الورك"
+  },
+  {
+   "index": 79,
+   "symptom": "muscle_weakness",
+   "label_en": "Muscle weakness",
+   "label_ar": "ضعف العضلات"
+  },
+  {
+   "index": 80,
+   "symptom": "stiff_neck",
+   "label_en": "Stiff neck",
+   "label_ar": "تيبّس الرقبة"
+  },
+  {
+   "index": 81,
+   "symptom": "swelling_joints",
+   "label_en": "Swelling joints",
+   "label_ar": "تورم المفاصل"
+  },
+  {
+   "index": 82,
+   "symptom": "movement_stiffness",
+   "label_en": "Movement stiffness",
+   "label_ar": "تيبّس الحركة"
+  },
+  {
+   "index": 83,
+   "symptom": "spinning_movements",
+   "label_en": "Spinning movements",
+   "label_ar": "إحساس بدوران الأشياء"
+  },
+  {
+   "index": 84,
+   "symptom": "loss_of_balance",
+   "label_en": "Loss of balance",
+   "label_ar": "فقدان التوازن"
+  },
+  {
+   "index": 85,
+   "symptom": "unsteadiness",
+   "label_en": "Unsteadiness",
+   "label_ar": "عدم الثبات عند المشي"
+  },
+  {
+   "index": 86,
+   "symptom": "weakness_of_one_body_side",
+   "label_en": "Weakness of one body side",
+   "label_ar": "ضعف في أحد جانبي الجسم"
+  },
+  {
+   "index": 87,
+   "symptom": "loss_of_smell",
+   "label_en": "Loss of smell",
+   "label_ar": "فقدان حاسة الشم"
+  },
+  {
+   "index": 88,
+   "symptom": "bladder_discomfort",
+   "label_en": "Bladder discomfort",
+   "label_ar": "انزعاج في المثانة"
+  },
+  {
+   "index": 89,
+   "symptom": "foul_smell_of_urine",
+   "label_en": "Foul smell of urine",
+   "label_ar": "رائحة كريهة للبول"
+  },
+  {
+   "index": 90,
+   "symptom": "continuous_feel_of_urine",
+   "label_en": "Continuous feel of urine",
+   "label_ar": "الإحساس المستمر بالحاجة للتبول"
+  },
+  {
+   "index": 91,
+   "symptom": "passage_of_gases",
+   "label_en": "Passage of gases",
+   "label_ar": "خروج غازات"
+  },
+  {
+   "index": 92,
+   "symptom": "internal_itching",
+   "label_en": "Internal itching",
+   "label_ar": "حكة داخلية"
+  },
+  {
+   "index": 93,
+   "symptom": "toxic_look_typhos",
+   "label_en": "Toxic look typhos",
+   "label_ar": "مظهر إعياء شديد (يشبه التيفوئيد)"
+  },
+  {
+   "index": 94,
+   "symptom": "depression",
+   "label_en": "Depression",
+   "label_ar": "اكتئاب"
+  },
+  {
+   "index": 95,
+   "symptom": "irritability",
+   "label_en": "Irritability",
+   "label_ar": "سرعة الانفعال"
+  },
+  {
+   "index": 96,
+   "symptom": "muscle_pain",
+   "label_en": "Muscle pain",
+   "label_ar": "ألم في العضلات"
+  },
+  {
+   "index": 97,
+   "symptom": "altered_sensorium",
+   "label_en": "Altered sensorium",
+   "label_ar": "تغيّر مستوى الوعي/تشوش ذهني"
+  },
+  {
+   "index": 98,
+   "symptom": "red_spots_over_body",
+   "label_en": "Red spots over body",
+   "label_ar": "بقع حمراء على الجسم"
+  },
+  {
+   "index": 99,
+   "symptom": "belly_pain",
+   "label_en": "Belly pain",
+   "label_ar": "ألم أسفل البطن"
+  },
+  {
+   "index": 100,
+   "symptom": "abnormal_menstruation",
+   "label_en": "Abnormal menstruation",
+   "label_ar": "اضطراب الدورة الشهرية"
+  },
+  {
+   "index": 101,
+   "symptom": "dyschromic_patches",
+   "label_en": "Dyschromic patches",
+   "label_ar": "بقع جلدية متغيرة اللون"
+  },
+  {
+   "index": 102,
+   "symptom": "watering_from_eyes",
+   "label_en": "Watering from eyes",
+   "label_ar": "دمع العينين"
+  },
+  {
+   "index": 103,
+   "symptom": "increased_appetite",
+   "label_en": "Increased appetite",
+   "label_ar": "زيادة الشهية"
+  },
+  {
+   "index": 104,
+   "symptom": "polyuria",
+   "label_en": "Polyuria",
+   "label_ar": "كثرة التبول"
+  },
+  {
+   "index": 105,
+   "symptom": "family_history",
+   "label_en": "Family history",
+   "label_ar": "تاريخ عائلي للمرض"
+  },
+  {
+   "index": 106,
+   "symptom": "mucoid_sputum",
+   "label_en": "Mucoid sputum",
+   "label_ar": "بلغم مخاطي"
+  },
+  {
+   "index": 107,
+   "symptom": "rusty_sputum",
+   "label_en": "Rusty sputum",
+   "label_ar": "بلغم بلون صدئ"
+  },
+  {
+   "index": 108,
+   "symptom": "lack_of_concentration",
+   "label_en": "Lack of concentration",
+   "label_ar": "ضعف التركيز"
+  },
+  {
+   "index": 109,
+   "symptom": "visual_disturbances",
+   "label_en": "Visual disturbances",
+   "label_ar": "اضطرابات في الرؤية"
+  },
+  {
+   "index": 110,
+   "symptom": "receiving_blood_transfusion",
+   "label_en": "Receiving blood transfusion",
+   "label_ar": "نقل دم سابق"
+  },
+  {
+   "index": 111,
+   "symptom": "receiving_unsterile_injections",
+   "label_en": "Receiving unsterile injections",
+   "label_ar": "حقن غير معقمة"
+  },
+  {
+   "index": 112,
+   "symptom": "coma",
+   "label_en": "Coma",
+   "label_ar": "غيبوبة"
+  },
+  {
+   "index": 113,
+   "symptom": "stomach_bleeding",
+   "label_en": "Stomach bleeding",
+   "label_ar": "نزيف في المعدة"
+  },
+  {
+   "index": 114,
+   "symptom": "distention_of_abdomen",
+   "label_en": "Distention of abdomen",
+   "label_ar": "تمدد البطن"
+  },
+  {
+   "index": 115,
+   "symptom": "history_of_alcohol_consumption",
+   "label_en": "History of alcohol consumption",
+   "label_ar": "تاريخ شرب الكحول"
+  },
+  {
+   "index": 116,
+   "symptom": "fluid_overload",
+   "label_en": "Fluid overload",
+   "label_ar": "احتباس السوائل"
+  },
+  {
+   "index": 117,
+   "symptom": "blood_in_sputum",
+   "label_en": "Blood in sputum",
+   "label_ar": "دم في البلغم"
+  },
+  {
+   "index": 118,
+   "symptom": "prominent_veins_on_calf",
+   "label_en": "Prominent veins on calf",
+   "label_ar": "بروز أوردة الساق"
+  },
+  {
+   "index": 119,
+   "symptom": "palpitations",
+   "label_en": "Palpitations",
+   "label_ar": "خفقان"
+  },
+  {
+   "index": 120,
+   "symptom": "painful_walking",
+   "label_en": "Painful walking",
+   "label_ar": "ألم عند المشي"
+  },
+  {
+   "index": 121,
+   "symptom": "pus_filled_pimples",
+   "label_en": "Pus filled pimples",
+   "label_ar": "حبوب مليئة بالقيح"
+  },
+  {
+   "index": 122,
+   "symptom": "blackheads",
+   "label_en": "Blackheads",
+   "label_ar": "رؤوس سوداء"
+  },
+  {
+   "index": 123,
+   "symptom": "scarring",
+   "label_en": "Scarring",
+   "label_ar": "ندبات"
+  },
+  {
+   "index": 124,
+   "symptom": "skin_peeling",
+   "label_en": "Skin peeling",
+   "label_ar": "تقشر الجلد"
+  },
+  {
+   "index": 125,
+   "symptom": "silver_like_dusting",
+   "label_en": "Silver like dusting",
+   "label_ar": "قشور فضية على الجلد"
+  },
+  {
+   "index": 126,
+   "symptom": "small_dents_in_nails",
+   "label_en": "Small dents in nails",
+   "label_ar": "نقر صغيرة في الأظافر"
+  },
+  {
+   "index": 127,
+   "symptom": "inflammatory_nails",
+   "label_en": "Inflammatory nails",
+   "label_ar": "التهاب الأظافر"
+  },
+  {
+   "index": 128,
+   "symptom": "blister",
+   "label_en": "Blister",
+   "label_ar": "فقاعات/حويصلات جلدية"
+  },
+  {
+   "index": 129,
+   "symptom": "red_sore_around_nose",
+   "label_en": "Red sore around nose",
+   "label_ar": "قرحة حمراء حول الأنف"
+  },
+  {
+   "index": 130,
+   "symptom": "yellow_crust_ooze",
+   "label_en": "Yellow crust ooze",
+   "label_ar": "قشرة صفراء/إفرازات"
+  }
+ ],
+ "diseases": [
+  {
+   "index": 0,
+   "name": "AIDS",
+   "n_patterns": 5,
+   "name_ar": "الإيدز (متلازمة نقص المناعة المكتسب)",
+   "description": "عدوى فيروسية (HIV) تُضعف جهاز المناعة تدريجياً وتزيد خطر العدوى والأمراض الأخرى.",
+   "precautions": [
+    "مراجعة الطبيب لإجراء فحص HIV وتأكيد التشخيص",
+    "تجنب العلاقات غير الآمنة وعدم مشاركة الإبر",
+    "الالتزام بالعلاج المضاد للفيروسات إذا ثبت التشخيص",
+    "الحفاظ على تغذية جيدة وتجنب مخالطة المصابين بالعدوى"
+   ],
+   "urgent": false
+  },
+  {
+   "index": 1,
+   "name": "Acne",
+   "n_patterns": 5,
+   "name_ar": "حب الشباب",
+   "description": "التهاب في بصيلات الشعر والغدد الدهنية ينتج عنه حبوب ورؤوس سوداء، ويشيع في سن المراهقة.",
+   "precautions": [
+    "غسل الوجه بلطف مرتين يومياً",
+    "عدم عصر الحبوب أو لمسها",
+    "تجنب مستحضرات التجميل الدهنية",
+    "مراجعة طبيب الجلدية إذا كانت الحالة شديدة أو تترك ندبات"
+   ],
+   "urgent": false
+  },
+  {
+   "index": 2,
+   "name": "Alcoholic hepatitis",
+   "n_patterns": 8,
+   "name_ar": "التهاب الكبد الكحولي",
+   "description": "التهاب في الكبد ناتج عن الإفراط في شرب الكحول لفترة طويلة.",
+   "precautions": [
+    "التوقف التام عن شرب الكحول",
+    "مراجعة الطبيب لإجراء فحوصات الكبد",
+    "تناول غذاء متوازن وقليل الدهون",
+    "عدم تناول أدوية دون استشارة الطبيب لأنها قد تؤذي الكبد"
+   ],
+   "urgent": false
+  },
+  {
+   "index": 3,
+   "name": "Allergy",
+   "n_patterns": 5,
+   "name_ar": "حساسية",
+   "description": "استجابة مبالغ فيها من الجهاز المناعي تجاه مواد مثل الغبار أو حبوب اللقاح أو بعض الأطعمة.",
+   "precautions": [
+    "تجنب المادة المسببة للحساسية قدر الإمكان",
+    "تنظيف المنزل من الغبار بانتظام",
+    "استشارة الطبيب أو الصيدلاني بشأن مضادات الهيستامين",
+    "التوجه للطوارئ فوراً عند صعوبة التنفس أو تورم الوجه والحلق"
+   ],
+   "urgent": false
+  },
+  {
+   "index": 4,
+   "name": "Arthritis",
+   "n_patterns": 6,
+   "name_ar": "التهاب المفاصل",
+   "description": "التهاب في المفاصل يسبب ألماً وتورماً وتيبساً في الحركة.",
+   "precautions": [
+    "الحفاظ على حركة المفاصل بتمارين خفيفة",
+    "استخدام كمادات دافئة للتخفيف من التيبس",
+    "تجنب إجهاد المفصل المصاب",
+    "مراجعة طبيب المفاصل لتحديد النوع والعلاج المناسب"
+   ],
+   "urgent": false
+  },
+  {
+   "index": 5,
+   "name": "Bronchial Asthma",
+   "n_patterns": 7,
+   "name_ar": "الربو القصبي",
+   "description": "مرض مزمن تضيق فيه المجاري الهوائية فتحدث نوبات سعال وصفير وضيق تنفس.",
+   "precautions": [
+    "تجنب المحفزات مثل الغبار والدخان والروائح القوية",
+    "الالتزام بأدوية الربو الموصوفة وحمل البخاخ دائماً",
+    "الإقلاع عن التدخين وتجنب التدخين السلبي",
+    "التوجه للطوارئ عند شدة ضيق التنفس وعدم استجابته للبخاخ"
+   ],
+   "urgent": false
+  },
+  {
+   "index": 6,
+   "name": "Cervical spondylosis",
+   "n_patterns": 6,
+   "name_ar": "خشونة الفقرات العنقية",
+   "description": "تآكل تدريجي في فقرات وغضاريف الرقبة يسبب ألماً وتيبساً وقد يمتد إلى الأطراف.",
+   "precautions": [
+    "تعديل وضعية الجلوس والنوم والابتعاد عن الانحناء الطويل",
+    "تمارين تقوية ومرونة للرقبة بإشراف مختص",
+    "كمادات دافئة لتخفيف الألم",
+    "مراجعة الطبيب عند ظهور تنميل أو ضعف في الذراعين"
+   ],
+   "urgent": false
+  },
+  {
+   "index": 7,
+   "name": "Chicken pox",
+   "n_patterns": 10,
+   "name_ar": "جدري الماء",
+   "description": "عدوى فيروسية معدية تسبب حمى وطفحاً جلدياً مع حويصلات تسبب الحكة.",
+   "precautions": [
+    "عزل المصاب عن الآخرين وخاصة الحوامل وضعاف المناعة",
+    "عدم حك الحويصلات لتجنب العدوى الجلدية والندبات",
+    "شرب السوائل وأخذ قسط من الراحة",
+    "مراجعة الطبيب لوصف خافض للحرارة مناسب (وعدم استخدام الأسبرين للأطفال)"
+   ],
+   "urgent": false
+  },
+  {
+   "index": 8,
+   "name": "Chronic cholestasis",
+   "n_patterns": 8,
+   "name_ar": "الركود الصفراوي المزمن",
+   "description": "اضطراب في تدفق الصفراء من الكبد يسبب اصفراراً وحكة وبولاً داكناً.",
+   "precautions": [
+    "مراجعة الطبيب لإجراء فحوصات الكبد والقنوات الصفراوية",
+    "تجنب الأطعمة الدسمة",
+    "عدم تناول أدوية أو أعشاب دون استشارة الطبيب",
+    "متابعة دورية مع طبيب الجهاز الهضمي"
+   ],
+   "urgent": false
+  },
+  {
+   "index": 9,
+   "name": "Common Cold",
+   "n_patterns": 9,
+   "name_ar": "الزكام (نزلة البرد)",
+   "description": "عدوى فيروسية خفيفة للجهاز التنفسي العلوي تسبب سيلان الأنف والعطاس والسعال.",
+   "precautions": [
+    "الراحة وشرب السوائل الدافئة بكثرة",
+    "غسل اليدين بانتظام وتغطية الفم عند السعال",
+    "تجنب مخالطة الآخرين أثناء العدوى",
+    "مراجعة الطبيب إذا استمرت الأعراض أكثر من 10 أيام أو ظهرت حمى عالية"
+   ],
+   "urgent": false
+  },
+  {
+   "index": 10,
+   "name": "Dengue",
+   "n_patterns": 10,
+   "name_ar": "حمى الضنك",
+   "description": "عدوى فيروسية ينقلها البعوض تسبب حمى شديدة وآلاماً في الجسم وخلف العينين وقد تكون خطيرة.",
+   "precautions": [
+    "مراجعة الطبيب بسرعة لإجراء فحص الدم وعدّ الصفائح",
+    "شرب السوائل بكثرة والراحة",
+    "عدم تناول الأسبرين أو مضادات الالتهاب دون إذن الطبيب",
+    "التوجه للطوارئ عند ظهور نزيف أو ألم بطن شديد أو قيء مستمر"
+   ],
+   "urgent": true
+  },
+  {
+   "index": 11,
+   "name": "Diabetes",
+   "n_patterns": 9,
+   "name_ar": "داء السكري",
+   "description": "اضطراب مزمن في مستوى سكر الدم ينتج عن نقص الإنسولين أو ضعف استجابة الجسم له.",
+   "precautions": [
+    "مراجعة الطبيب لفحص سكر الدم والسكر التراكمي",
+    "اتباع نظام غذائي قليل السكريات والنشويات المكررة",
+    "ممارسة النشاط البدني بانتظام",
+    "عدم إيقاف أو تغيير الأدوية دون استشارة الطبيب"
+   ],
+   "urgent": false
+  },
+  {
+   "index": 12,
+   "name": "Drug Reaction",
+   "n_patterns": 6,
+   "name_ar": "تفاعل دوائي",
+   "description": "استجابة غير مرغوبة من الجسم لدواء معين، وقد تظهر كطفح جلدي أو حكة أو أعراض أخرى.",
+   "precautions": [
+    "التوقف عن الدواء المشتبه به بعد استشارة الطبيب أو الصيدلاني",
+    "تسجيل اسم الدواء وإبلاغ الطبيب به",
+    "عدم إعادة استخدام الدواء دون إذن الطبيب",
+    "التوجه للطوارئ عند تورم الوجه أو صعوبة التنفس"
+   ],
+   "urgent": false
+  },
+  {
+   "index": 13,
+   "name": "Fungal infection",
+   "n_patterns": 5,
+   "name_ar": "عدوى فطرية",
+   "description": "عدوى جلدية سطحية تسبب حكة وطفحاً وتقشراً، وتزداد في الأماكن الرطبة.",
+   "precautions": [
+    "إبقاء الجلد نظيفاً وجافاً",
+    "عدم مشاركة المناشف والملابس",
+    "ارتداء ملابس قطنية فضفاضة",
+    "مراجعة الطبيب لوصف مضاد فطري مناسب"
+   ],
+   "urgent": false
+  },
+  {
+   "index": 14,
+   "name": "GERD",
+   "n_patterns": 7,
+   "name_ar": "الارتجاع المعدي المريئي",
+   "description": "ارتجاع حمض المعدة إلى المريء يسبب حرقة وحموضة وألماً في أعلى البطن أو الصدر.",
+   "precautions": [
+    "تناول وجبات صغيرة وتجنب الأكل قبل النوم بساعتين إلى ثلاث",
+    "تجنب الأطعمة الحارة والدهنية والكافيين",
+    "رفع رأس السرير قليلاً أثناء النوم",
+    "مراجعة الطبيب إذا تكررت الأعراض، والتوجه للطوارئ عند ألم صدر شديد (قد يكون القلب)"
+   ],
+   "urgent": false
+  },
+  {
+   "index": 15,
+   "name": "Gastroenteritis",
+   "n_patterns": 5,
+   "name_ar": "التهاب المعدة والأمعاء",
+   "description": "التهاب يصيب المعدة والأمعاء غالباً بسبب فيروس أو بكتيريا أو طعام ملوث، ويسبب إسهالاً وتقيؤاً.",
+   "precautions": [
+    "تعويض السوائل والأملاح بمحلول الإماهة الفموية",
+    "تناول أطعمة خفيفة تدريجياً",
+    "غسل اليدين جيداً وتجنب الأطعمة والمياه غير النظيفة",
+    "مراجعة الطبيب عند علامات الجفاف أو وجود دم في البراز أو استمرار الأعراض"
+   ],
+   "urgent": false
+  },
+  {
+   "index": 16,
+   "name": "Heart attack",
+   "n_patterns": 5,
+   "name_ar": "نوبة قلبية (احتشاء عضلة القلب)",
+   "description": "حالة طارئة تحدث عند انسداد تدفق الدم لجزء من عضلة القلب.",
+   "precautions": [
+    "اتصل بالإسعاف أو توجه للطوارئ فوراً ولا تنتظر",
+    "اجلس أو استلقِ واسترح وتجنب أي مجهود",
+    "فكّ الملابس الضيقة، ولا تقد السيارة بنفسك",
+    "لا تتناول أي دواء إلا إذا نصحك به الطبيب أو مختص الإسعاف"
+   ],
+   "urgent": true
+  },
+  {
+   "index": 17,
+   "name": "Hemorrhoids (piles)",
+   "n_patterns": 6,
+   "name_ar": "البواسير",
+   "description": "تورم الأوردة في منطقة الشرج والمستقيم يسبب ألماً وحكة وأحياناً نزيفاً.",
+   "precautions": [
+    "تناول الألياف وشرب الماء بكثرة لتجنب الإمساك",
+    "عدم الجلوس طويلاً أو الإجهاد أثناء التبرز",
+    "الجلوس في ماء دافئ لتخفيف الألم",
+    "مراجعة الطبيب عند وجود نزيف متكرر"
+   ],
+   "urgent": false
+  },
+  {
+   "index": 18,
+   "name": "Hepatitis A",
+   "n_patterns": 9,
+   "name_ar": "التهاب الكبد A",
+   "description": "عدوى فيروسية للكبد تنتقل عبر الطعام والماء الملوثين وتسبب اصفراراً وغثياناً وتعباً.",
+   "precautions": [
+    "الراحة وشرب السوائل وتجنب الكحول والأدوية المؤذية للكبد",
+    "غسل اليدين جيداً وتجنب الأطعمة والمياه غير النظيفة",
+    "مراجعة الطبيب لتأكيد التشخيص ومتابعة وظائف الكبد",
+    "التطعيم ضد التهاب الكبد A للوقاية"
+   ],
+   "urgent": false
+  },
+  {
+   "index": 19,
+   "name": "Hepatitis B",
+   "n_patterns": 9,
+   "name_ar": "التهاب الكبد B",
+   "description": "عدوى فيروسية للكبد تنتقل عبر الدم والسوائل الجسدية، وقد تتحول إلى مزمنة.",
+   "precautions": [
+    "مراجعة الطبيب لإجراء تحاليل الفيروس ووظائف الكبد",
+    "عدم مشاركة الإبر وأدوات الحلاقة وفرشاة الأسنان",
+    "استخدام وسائل الوقاية في العلاقات الجنسية",
+    "التطعيم ضد التهاب الكبد B للوقاية"
+   ],
+   "urgent": false
+  },
+  {
+   "index": 20,
+   "name": "Hepatitis C",
+   "n_patterns": 7,
+   "name_ar": "التهاب الكبد C",
+   "description": "عدوى فيروسية للكبد تنتقل غالباً عبر الدم، وقد تؤدي لتليف الكبد إن لم تعالج.",
+   "precautions": [
+    "مراجعة الطبيب لإجراء تحليل الفيروس وتحديد العلاج",
+    "عدم مشاركة الإبر والأدوات الحادة",
+    "تجنب الكحول",
+    "المتابعة الدورية لوظائف الكبد"
+   ],
+   "urgent": false
+  },
+  {
+   "index": 21,
+   "name": "Hepatitis D",
+   "n_patterns": 10,
+   "name_ar": "التهاب الكبد D",
+   "description": "عدوى تصيب فقط من لديه التهاب الكبد B، وتزيد من شدة المرض.",
+   "precautions": [
+    "مراجعة الطبيب بسرعة لإجراء التحاليل اللازمة",
+    "تجنب الكحول والأدوية المؤذية للكبد",
+    "عدم مشاركة الإبر والأدوات الحادة",
+    "الوقاية من التهاب الكبد B بالتطعيم"
+   ],
+   "urgent": false
+  },
+  {
+   "index": 22,
+   "name": "Hepatitis E",
+   "n_patterns": 9,
+   "name_ar": "التهاب الكبد E",
+   "description": "عدوى فيروسية للكبد تنتقل غالباً عبر الماء الملوث وهي خطيرة بشكل خاص على الحوامل.",
+   "precautions": [
+    "شرب الماء النظيف والمعقم وتجنب الأطعمة غير النظيفة",
+    "الراحة والسوائل وتجنب الكحول",
+    "مراجعة الطبيب لتأكيد التشخيص",
+    "على الحامل مراجعة الطبيب فوراً"
+   ],
+   "urgent": false
+  },
+  {
+   "index": 23,
+   "name": "Hypertension",
+   "n_patterns": 6,
+   "name_ar": "ارتفاع ضغط الدم",
+   "description": "ارتفاع مزمن في ضغط الدم يزيد خطر أمراض القلب والسكتة الدماغية وقد لا تظهر له أعراض.",
+   "precautions": [
+    "قياس الضغط بانتظام ومراجعة الطبيب",
+    "تقليل الملح والأطعمة المصنعة",
+    "ممارسة النشاط البدني وإنقاص الوزن الزائد",
+    "الالتزام بالأدوية الموصوفة وعدم إيقافها فجأة"
+   ],
+   "urgent": false
+  },
+  {
+   "index": 24,
+   "name": "Hyperthyroidism",
+   "n_patterns": 9,
+   "name_ar": "فرط نشاط الغدة الدرقية",
+   "description": "زيادة إفراز هرمونات الدرقية يسبب تسارع القلب وفقدان الوزن والتعرق والعصبية.",
+   "precautions": [
+    "مراجعة الطبيب لإجراء تحليل هرمونات الغدة الدرقية",
+    "تجنب المنبهات مثل الكافيين",
+    "الراحة وتجنب الإجهاد",
+    "المتابعة الدورية مع طبيب الغدد"
+   ],
+   "urgent": false
+  },
+  {
+   "index": 25,
+   "name": "Hypoglycemia",
+   "n_patterns": 9,
+   "name_ar": "هبوط سكر الدم",
+   "description": "انخفاض سكر الدم عن المعدل الطبيعي، ويسبب رجفة وتعرقاً وجوعاً ودوخة وقد يتطور لفقدان الوعي.",
+   "precautions": [
+    "عند الاشتباه وكون المريض واعياً: تناول مصدر سكر سريع (عصير أو سكر) ثم أعد قياس السكر",
+    "تناول وجبة منتظمة بعد التحسن",
+    "مراجعة الطبيب لمعرفة السبب",
+    "التوجه للطوارئ عند فقدان الوعي أو عدم التحسن"
+   ],
+   "urgent": true
+  },
+  {
+   "index": 26,
+   "name": "Hypothyroidism",
+   "n_patterns": 8,
+   "name_ar": "قصور الغدة الدرقية",
+   "description": "نقص هرمونات الدرقية يسبب تعباً وزيادة وزن وبرودة وجفاف الجلد.",
+   "precautions": [
+    "مراجعة الطبيب لإجراء تحليل هرمونات الغدة الدرقية",
+    "الالتزام بالعلاج الهرموني إذا وُصف",
+    "تغذية متوازنة وممارسة الرياضة",
+    "متابعة دورية مع الطبيب"
+   ],
+   "urgent": false
+  },
+  {
+   "index": 27,
+   "name": "Impetigo",
+   "n_patterns": 6,
+   "name_ar": "القوباء الجلدية (إمبيتيغو)",
+   "description": "عدوى جلدية بكتيرية معدية تسبب قروحاً وقشرة صفراء، وتشيع عند الأطفال.",
+   "precautions": [
+    "غسل المنطقة بالماء والصابون بلطف",
+    "عدم حك القروح وتغطيتها",
+    "عدم مشاركة المناشف والملابس",
+    "مراجعة الطبيب لوصف مضاد حيوي موضعي أو فموي"
+   ],
+   "urgent": false
+  },
+  {
+   "index": 28,
+   "name": "Jaundice",
+   "n_patterns": 9,
+   "name_ar": "اليرقان (اليَرَقان)",
+   "description": "اصفرار الجلد والعينين بسبب ارتفاع البيليروبين، وهو علامة لمشكلة في الكبد أو القنوات الصفراوية أو الدم.",
+   "precautions": [
+    "مراجعة الطبيب لتحديد السبب",
+    "شرب السوائل وتجنب الكحول",
+    "تجنب الأطعمة الدسمة والأدوية دون استشارة",
+    "التوجه للطوارئ عند تشوش الوعي أو نزيف"
+   ],
+   "urgent": false
+  },
+  {
+   "index": 29,
+   "name": "Malaria",
+   "n_patterns": 8,
+   "name_ar": "الملاريا",
+   "description": "عدوى طفيلية ينقلها البعوض تسبب حمى مع قشعريرة وتعرق، وتتطلب علاجاً سريعاً.",
+   "precautions": [
+    "مراجعة الطبيب فوراً لإجراء فحص الدم",
+    "الالتزام بالعلاج الكامل الموصوف",
+    "استخدام ناموسية ومواد طاردة للبعوض",
+    "التوجه للطوارئ عند تشوش الوعي أو شدة الأعراض"
+   ],
+   "urgent": true
+  },
+  {
+   "index": 30,
+   "name": "Migraine",
+   "n_patterns": 10,
+   "name_ar": "الشقيقة (الصداع النصفي)",
+   "description": "صداع شديد متكرر غالباً في جانب واحد، وقد يصاحبه غثيان وحساسية للضوء والصوت.",
+   "precautions": [
+    "الراحة في غرفة هادئة ومظلمة",
+    "تدوين المحفزات (قلة النوم، أطعمة معينة، التوتر) وتجنبها",
+    "الانتظام في النوم والأكل وشرب الماء",
+    "مراجعة الطبيب إذا تكررت النوبات، والتوجه للطوارئ عند صداع مفاجئ شديد جداً"
+   ],
+   "urgent": false
+  },
+  {
+   "index": 31,
+   "name": "Osteoarthritis",
+   "n_patterns": 7,
+   "name_ar": "الفصال العظمي (خشونة المفاصل)",
+   "description": "تآكل غضروف المفاصل مع التقدم في العمر أو الإجهاد، ويسبب ألماً وتيبساً.",
+   "precautions": [
+    "إنقاص الوزن الزائد لتخفيف الحمل على المفاصل",
+    "تمارين خفيفة مثل المشي والسباحة",
+    "كمادات دافئة أو باردة حسب الراحة",
+    "مراجعة الطبيب لتقييم الحالة والعلاج"
+   ],
+   "urgent": false
+  },
+  {
+   "index": 32,
+   "name": "Paralysis (brain hemorrhage)",
+   "n_patterns": 5,
+   "name_ar": "شلل (نزيف دماغي/سكتة)",
+   "description": "فقدان القدرة على الحركة في جزء من الجسم نتيجة نزيف أو انسداد في الدماغ، وهي حالة طارئة.",
+   "precautions": [
+    "اتصل بالإسعاف أو توجه للطوارئ فوراً، فالوقت حاسم",
+    "دوّن وقت بدء الأعراض",
+    "لا تعطِ المريض طعاماً أو شراباً أو أدوية",
+    "أبقِ المريض مستلقياً وراقب تنفسه"
+   ],
+   "urgent": true
+  },
+  {
+   "index": 33,
+   "name": "Paroxysmal Positional Vertigo",
+   "n_patterns": 7,
+   "name_ar": "دوار الوضعة الانتيابي الحميد",
+   "description": "دوار قصير يحدث عند تغيير وضع الرأس بسبب اضطراب في الأذن الداخلية.",
+   "precautions": [
+    "الحركة ببطء عند تغيير وضع الرأس",
+    "تجنب القيادة أثناء النوبات",
+    "مراجعة الطبيب (أنف وأذن وحنجرة) لتمارين إعادة التوازن",
+    "التوجه للطوارئ إذا صاحب الدوار ضعف أو صعوبة كلام"
+   ],
+   "urgent": false
+  },
+  {
+   "index": 34,
+   "name": "Peptic ulcer disease",
+   "n_patterns": 7,
+   "name_ar": "قرحة المعدة والاثني عشر",
+   "description": "جروح في بطانة المعدة أو الاثني عشر تسبب ألماً وحرقة وأحياناً نزيفاً.",
+   "precautions": [
+    "تجنب التدخين والكحول والأطعمة الحارة",
+    "تجنب مسكنات الألم من نوع مضادات الالتهاب دون إذن الطبيب",
+    "مراجعة الطبيب للفحص وعلاج البكتيريا الحلزونية إن وُجدت",
+    "التوجه للطوارئ عند تقيؤ دم أو براز أسود"
+   ],
+   "urgent": false
+  },
+  {
+   "index": 35,
+   "name": "Pneumonia",
+   "n_patterns": 9,
+   "name_ar": "الالتهاب الرئوي",
+   "description": "عدوى تصيب الرئتين تسبب سعالاً وحمى وضيق تنفس، وقد تكون خطيرة.",
+   "precautions": [
+    "مراجعة الطبيب سريعاً لتأكيد التشخيص والعلاج",
+    "الراحة وشرب السوائل",
+    "الالتزام بالمضادات الحيوية كاملة إذا وُصفت",
+    "التوجه للطوارئ عند ضيق تنفس شديد أو ازرقاق الشفاه"
+   ],
+   "urgent": true
+  },
+  {
+   "index": 36,
+   "name": "Psoriasis",
+   "n_patterns": 7,
+   "name_ar": "الصدفية",
+   "description": "مرض جلدي مناعي مزمن يسبب قشوراً فضية وبقعاً حمراء متقشرة.",
+   "precautions": [
+    "ترطيب الجلد بانتظام",
+    "تجنب المحفزات مثل التوتر والتدخين",
+    "التعرض المعتدل للشمس",
+    "مراجعة طبيب الجلدية لوضع خطة علاج"
+   ],
+   "urgent": false
+  },
+  {
+   "index": 37,
+   "name": "Tuberculosis",
+   "n_patterns": 9,
+   "name_ar": "السل (الدرن)",
+   "description": "عدوى بكتيرية تصيب الرئتين غالباً وتسبب سعالاً مزمناً ونقص وزن وتعرقاً ليلياً.",
+   "precautions": [
+    "مراجعة الطبيب بسرعة لإجراء أشعة الصدر وفحص البلغم",
+    "الالتزام بالعلاج الكامل لعدة أشهر دون انقطاع",
+    "تغطية الفم عند السعال وتهوية المكان",
+    "فحص المخالطين في المنزل"
+   ],
+   "urgent": false
+  },
+  {
+   "index": 38,
+   "name": "Typhoid",
+   "n_patterns": 9,
+   "name_ar": "حمى التيفوئيد",
+   "description": "عدوى بكتيرية تنتقل عبر الطعام والماء الملوثين وتسبب حمى مستمرة وآلاماً في البطن.",
+   "precautions": [
+    "مراجعة الطبيب لإجراء الفحوص وتلقي المضاد الحيوي",
+    "شرب الماء النظيف المغلي وتناول طعام مطبوخ جيداً",
+    "غسل اليدين جيداً",
+    "التوجه للطوارئ عند حمى شديدة أو تشوش أو ألم بطن حاد"
+   ],
+   "urgent": true
+  },
+  {
+   "index": 39,
+   "name": "Urinary tract infection",
+   "n_patterns": 5,
+   "name_ar": "التهاب المسالك البولية",
+   "description": "عدوى بكتيرية في المثانة أو المسالك البولية تسبب حرقة وكثرة تبول.",
+   "precautions": [
+    "شرب كميات كافية من الماء",
+    "عدم حبس البول",
+    "مراجعة الطبيب لإجراء تحليل البول ووصف مضاد حيوي",
+    "التوجه للطوارئ عند حمى مع ألم في الخاصرة"
+   ],
+   "urgent": false
+  },
+  {
+   "index": 40,
+   "name": "Varicose veins",
+   "n_patterns": 8,
+   "name_ar": "الدوالي",
+   "description": "توسع وتعرج في أوردة الساقين نتيجة ضعف صماماتها.",
+   "precautions": [
+    "رفع الساقين أثناء الراحة",
+    "تجنب الوقوف أو الجلوس الطويل",
+    "ارتداء جوارب ضاغطة بإشارة الطبيب",
+    "مراجعة طبيب الأوعية الدموية عند الألم أو التورم أو تقرح الجلد"
+   ],
+   "urgent": false
+  }
+ ],
+ "emergency_symptoms": [
+  "chest_pain",
+  "breathlessness",
+  "weakness_of_one_body_side",
+  "slurred_speech",
+  "coma",
+  "altered_sensorium",
+  "blood_in_sputum",
+  "stomach_bleeding",
+  "acute_liver_failure",
+  "bloody_stool"
+ ]
+}
